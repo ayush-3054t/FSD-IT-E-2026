@@ -1,0 +1,2 @@
+This is the data written through the sync function
+This text was added using append.
