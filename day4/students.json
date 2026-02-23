@@ -1,0 +1,71 @@
+[{
+  "id": 1,
+  "first_name": "Beatrisa",
+  "last_name": "Birdall",
+  "email": "bbirdall0@earthlink.net",
+  "gender": "Female",
+  "ip_address": "190.91.135.3"
+}, {
+  "id": 2,
+  "first_name": "Ravid",
+  "last_name": "Whitley",
+  "email": "rwhitley1@google.co.jp",
+  "gender": "Male",
+  "ip_address": "142.112.132.224"
+}, {
+  "id": 3,
+  "first_name": "Alvie",
+  "last_name": "Sorby",
+  "email": "asorby2@hud.gov",
+  "gender": "Male",
+  "ip_address": "72.180.178.84"
+}, {
+  "id": 4,
+  "first_name": "Edd",
+  "last_name": "Aldine",
+  "email": "ealdine3@sphinn.com",
+  "gender": "Male",
+  "ip_address": "52.102.37.108"
+}, {
+  "id": 5,
+  "first_name": "Wilhelmina",
+  "last_name": "Rosenau",
+  "email": "wrosenau4@oaic.gov.au",
+  "gender": "Female",
+  "ip_address": "83.98.199.39"
+}, {
+  "id": 6,
+  "first_name": "Leann",
+  "last_name": "Grissett",
+  "email": "lgrissett5@usda.gov",
+  "gender": "Bigender",
+  "ip_address": "8.135.24.223"
+}, {
+  "id": 7,
+  "first_name": "Torrance",
+  "last_name": "Sporle",
+  "email": "tsporle6@irs.gov",
+  "gender": "Male",
+  "ip_address": "131.76.38.129"
+}, {
+  "id": 8,
+  "first_name": "Deidre",
+  "last_name": "Eustice",
+  "email": "deustice7@simplemachines.org",
+  "gender": "Female",
+  "ip_address": "235.209.192.237"
+}, {
+  "id": 9,
+  "first_name": "Susann",
+  "last_name": "Albrooke",
+  "email": "salbrooke8@squarespace.com",
+  "gender": "Non-binary",
+  "ip_address": "8.146.183.89"
+}, {
+  "id": 10,
+  "first_name": "Jelene",
+  "last_name": "Woosnam",
+  "email": "jwoosnam9@shinystat.com",
+  "gender": "Female",
+  "ip_address": "231.75.15.136"
+}]
